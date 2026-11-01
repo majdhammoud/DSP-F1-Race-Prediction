@@ -1,0 +1,33 @@
+[tool.black]
+
+line-length = 88
+
+target-version = ["py313"]
+
+exclude = '''
+/(
+    .git
+  | .venv
+  | __pycache__
+  | build
+  | dist
+  | airflow/logs
+  | training/notebooks
+)/
+'''
+
+[tool.isort]
+
+profile = "black"
+
+line_length = 88
+
+skip = [
+    ".venv",
+    "__pycache__",
+    "airflow/logs"
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

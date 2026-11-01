@@ -1,0 +1,1180 @@
+Season,Round,Grid,CircuitID,DriverID,ConstructorName
+2022,1,1,bahrain,leclerc,Ferrari
+2022,1,3,bahrain,sainz,Ferrari
+2022,1,5,bahrain,hamilton,Mercedes
+2022,1,9,bahrain,russell,Mercedes
+2022,1,7,bahrain,kevin_magnussen,Haas F1 Team
+2022,1,6,bahrain,bottas,Alfa Romeo
+2022,1,11,bahrain,ocon,Alpine F1 Team
+2022,1,16,bahrain,tsunoda,AlphaTauri
+2022,1,8,bahrain,alonso,Alpine F1 Team
+2022,1,15,bahrain,zhou,Alfa Romeo
+2022,1,12,bahrain,mick_schumacher,Haas F1 Team
+2022,1,19,bahrain,stroll,Aston Martin
+2022,1,14,bahrain,albon,Williams
+2022,1,18,bahrain,ricciardo,McLaren
+2022,1,13,bahrain,norris,McLaren
+2022,1,20,bahrain,latifi,Williams
+2022,1,17,bahrain,hulkenberg,Aston Martin
+2022,1,4,bahrain,perez,Red Bull
+2022,1,2,bahrain,max_verstappen,Red Bull
+2022,1,10,bahrain,gasly,AlphaTauri
+2022,2,4,jeddah,max_verstappen,Red Bull
+2022,2,2,jeddah,leclerc,Ferrari
+2022,2,3,jeddah,sainz,Ferrari
+2022,2,1,jeddah,perez,Red Bull
+2022,2,6,jeddah,russell,Mercedes
+2022,2,5,jeddah,ocon,Alpine F1 Team
+2022,2,11,jeddah,norris,McLaren
+2022,2,9,jeddah,gasly,AlphaTauri
+2022,2,10,jeddah,kevin_magnussen,Haas F1 Team
+2022,2,15,jeddah,hamilton,Mercedes
+2022,2,12,jeddah,zhou,Alfa Romeo
+2022,2,17,jeddah,hulkenberg,Aston Martin
+2022,2,13,jeddah,stroll,Aston Martin
+2022,2,16,jeddah,albon,Williams
+2022,2,8,jeddah,bottas,Alfa Romeo
+2022,2,7,jeddah,alonso,Alpine F1 Team
+2022,2,14,jeddah,ricciardo,McLaren
+2022,2,18,jeddah,latifi,Williams
+2022,2,19,jeddah,tsunoda,AlphaTauri
+2022,2,20,jeddah,mick_schumacher,Haas F1 Team
+2022,3,1,albert_park,leclerc,Ferrari
+2022,3,3,albert_park,perez,Red Bull
+2022,3,6,albert_park,russell,Mercedes
+2022,3,5,albert_park,hamilton,Mercedes
+2022,3,4,albert_park,norris,McLaren
+2022,3,7,albert_park,ricciardo,McLaren
+2022,3,8,albert_park,ocon,Alpine F1 Team
+2022,3,12,albert_park,bottas,Alfa Romeo
+2022,3,11,albert_park,gasly,AlphaTauri
+2022,3,20,albert_park,albon,Williams
+2022,3,14,albert_park,zhou,Alfa Romeo
+2022,3,19,albert_park,stroll,Aston Martin
+2022,3,15,albert_park,mick_schumacher,Haas F1 Team
+2022,3,16,albert_park,kevin_magnussen,Haas F1 Team
+2022,3,13,albert_park,tsunoda,AlphaTauri
+2022,3,18,albert_park,latifi,Williams
+2022,3,10,albert_park,alonso,Alpine F1 Team
+2022,3,2,albert_park,max_verstappen,Red Bull
+2022,3,17,albert_park,vettel,Aston Martin
+2022,3,9,albert_park,sainz,Ferrari
+2022,4,1,imola,max_verstappen,Red Bull
+2022,4,3,imola,perez,Red Bull
+2022,4,5,imola,norris,McLaren
+2022,4,11,imola,russell,Mercedes
+2022,4,7,imola,bottas,Alfa Romeo
+2022,4,2,imola,leclerc,Ferrari
+2022,4,12,imola,tsunoda,AlphaTauri
+2022,4,13,imola,vettel,Aston Martin
+2022,4,8,imola,kevin_magnussen,Haas F1 Team
+2022,4,15,imola,stroll,Aston Martin
+2022,4,18,imola,albon,Williams
+2022,4,17,imola,gasly,AlphaTauri
+2022,4,14,imola,hamilton,Mercedes
+2022,4,16,imola,ocon,Alpine F1 Team
+2022,4,20,imola,zhou,Alfa Romeo
+2022,4,19,imola,latifi,Williams
+2022,4,10,imola,mick_schumacher,Haas F1 Team
+2022,4,6,imola,ricciardo,McLaren
+2022,4,9,imola,alonso,Alpine F1 Team
+2022,4,4,imola,sainz,Ferrari
+2022,5,3,miami,max_verstappen,Red Bull
+2022,5,1,miami,leclerc,Ferrari
+2022,5,2,miami,sainz,Ferrari
+2022,5,4,miami,perez,Red Bull
+2022,5,12,miami,russell,Mercedes
+2022,5,6,miami,hamilton,Mercedes
+2022,5,5,miami,bottas,Alfa Romeo
+2022,5,20,miami,ocon,Alpine F1 Team
+2022,5,18,miami,albon,Williams
+2022,5,20,miami,stroll,Aston Martin
+2022,5,11,miami,alonso,Alpine F1 Team
+2022,5,9,miami,tsunoda,AlphaTauri
+2022,5,14,miami,ricciardo,McLaren
+2022,5,19,miami,latifi,Williams
+2022,5,15,miami,mick_schumacher,Haas F1 Team
+2022,5,16,miami,kevin_magnussen,Haas F1 Team
+2022,5,20,miami,vettel,Aston Martin
+2022,5,7,miami,gasly,AlphaTauri
+2022,5,8,miami,norris,McLaren
+2022,5,17,miami,zhou,Alfa Romeo
+2022,6,2,catalunya,max_verstappen,Red Bull
+2022,6,5,catalunya,perez,Red Bull
+2022,6,4,catalunya,russell,Mercedes
+2022,6,3,catalunya,sainz,Ferrari
+2022,6,6,catalunya,hamilton,Mercedes
+2022,6,7,catalunya,bottas,Alfa Romeo
+2022,6,12,catalunya,ocon,Alpine F1 Team
+2022,6,11,catalunya,norris,McLaren
+2022,6,20,catalunya,alonso,Alpine F1 Team
+2022,6,13,catalunya,tsunoda,AlphaTauri
+2022,6,16,catalunya,vettel,Aston Martin
+2022,6,9,catalunya,ricciardo,McLaren
+2022,6,14,catalunya,gasly,AlphaTauri
+2022,6,10,catalunya,mick_schumacher,Haas F1 Team
+2022,6,17,catalunya,stroll,Aston Martin
+2022,6,19,catalunya,latifi,Williams
+2022,6,8,catalunya,kevin_magnussen,Haas F1 Team
+2022,6,18,catalunya,albon,Williams
+2022,6,15,catalunya,zhou,Alfa Romeo
+2022,6,1,catalunya,leclerc,Ferrari
+2022,7,3,monaco,perez,Red Bull
+2022,7,2,monaco,sainz,Ferrari
+2022,7,4,monaco,max_verstappen,Red Bull
+2022,7,1,monaco,leclerc,Ferrari
+2022,7,6,monaco,russell,Mercedes
+2022,7,5,monaco,norris,McLaren
+2022,7,7,monaco,alonso,Alpine F1 Team
+2022,7,8,monaco,hamilton,Mercedes
+2022,7,12,monaco,bottas,Alfa Romeo
+2022,7,9,monaco,vettel,Aston Martin
+2022,7,17,monaco,gasly,AlphaTauri
+2022,7,10,monaco,ocon,Alpine F1 Team
+2022,7,14,monaco,ricciardo,McLaren
+2022,7,18,monaco,stroll,Aston Martin
+2022,7,19,monaco,latifi,Williams
+2022,7,20,monaco,zhou,Alfa Romeo
+2022,7,11,monaco,tsunoda,AlphaTauri
+2022,7,16,monaco,albon,Williams
+2022,7,15,monaco,mick_schumacher,Haas F1 Team
+2022,7,13,monaco,kevin_magnussen,Haas F1 Team
+2022,8,3,baku,max_verstappen,Red Bull
+2022,8,2,baku,perez,Red Bull
+2022,8,5,baku,russell,Mercedes
+2022,8,7,baku,hamilton,Mercedes
+2022,8,6,baku,gasly,AlphaTauri
+2022,8,9,baku,vettel,Aston Martin
+2022,8,10,baku,alonso,Alpine F1 Team
+2022,8,12,baku,ricciardo,McLaren
+2022,8,11,baku,norris,McLaren
+2022,8,13,baku,ocon,Alpine F1 Team
+2022,8,15,baku,bottas,Alfa Romeo
+2022,8,17,baku,albon,Williams
+2022,8,8,baku,tsunoda,AlphaTauri
+2022,8,20,baku,mick_schumacher,Haas F1 Team
+2022,8,18,baku,latifi,Williams
+2022,8,19,baku,stroll,Aston Martin
+2022,8,16,baku,kevin_magnussen,Haas F1 Team
+2022,8,14,baku,zhou,Alfa Romeo
+2022,8,1,baku,leclerc,Ferrari
+2022,8,4,baku,sainz,Ferrari
+2022,9,1,villeneuve,max_verstappen,Red Bull
+2022,9,3,villeneuve,sainz,Ferrari
+2022,9,4,villeneuve,hamilton,Mercedes
+2022,9,8,villeneuve,russell,Mercedes
+2022,9,19,villeneuve,leclerc,Ferrari
+2022,9,7,villeneuve,ocon,Alpine F1 Team
+2022,9,11,villeneuve,bottas,Alfa Romeo
+2022,9,10,villeneuve,zhou,Alfa Romeo
+2022,9,2,villeneuve,alonso,Alpine F1 Team
+2022,9,17,villeneuve,stroll,Aston Martin
+2022,9,9,villeneuve,ricciardo,McLaren
+2022,9,16,villeneuve,vettel,Aston Martin
+2022,9,12,villeneuve,albon,Williams
+2022,9,15,villeneuve,gasly,AlphaTauri
+2022,9,14,villeneuve,norris,McLaren
+2022,9,18,villeneuve,latifi,Williams
+2022,9,5,villeneuve,kevin_magnussen,Haas F1 Team
+2022,9,20,villeneuve,tsunoda,AlphaTauri
+2022,9,6,villeneuve,mick_schumacher,Haas F1 Team
+2022,9,13,villeneuve,perez,Red Bull
+2022,10,1,silverstone,sainz,Ferrari
+2022,10,4,silverstone,perez,Red Bull
+2022,10,5,silverstone,hamilton,Mercedes
+2022,10,3,silverstone,leclerc,Ferrari
+2022,10,7,silverstone,alonso,Alpine F1 Team
+2022,10,6,silverstone,norris,McLaren
+2022,10,2,silverstone,max_verstappen,Red Bull
+2022,10,19,silverstone,mick_schumacher,Haas F1 Team
+2022,10,18,silverstone,vettel,Aston Martin
+2022,10,17,silverstone,kevin_magnussen,Haas F1 Team
+2022,10,20,silverstone,stroll,Aston Martin
+2022,10,10,silverstone,latifi,Williams
+2022,10,14,silverstone,ricciardo,McLaren
+2022,10,13,silverstone,tsunoda,AlphaTauri
+2022,10,15,silverstone,ocon,Alpine F1 Team
+2022,10,11,silverstone,gasly,AlphaTauri
+2022,10,12,silverstone,bottas,Alfa Romeo
+2022,10,8,silverstone,russell,Mercedes
+2022,10,9,silverstone,zhou,Alfa Romeo
+2022,10,16,silverstone,albon,Williams
+2022,11,2,red_bull_ring,leclerc,Ferrari
+2022,11,1,red_bull_ring,max_verstappen,Red Bull
+2022,11,8,red_bull_ring,hamilton,Mercedes
+2022,11,4,red_bull_ring,russell,Mercedes
+2022,11,6,red_bull_ring,ocon,Alpine F1 Team
+2022,11,9,red_bull_ring,mick_schumacher,Haas F1 Team
+2022,11,10,red_bull_ring,norris,McLaren
+2022,11,7,red_bull_ring,kevin_magnussen,Haas F1 Team
+2022,11,11,red_bull_ring,ricciardo,McLaren
+2022,11,19,red_bull_ring,alonso,Alpine F1 Team
+2022,11,20,red_bull_ring,bottas,Alfa Romeo
+2022,11,15,red_bull_ring,albon,Williams
+2022,11,12,red_bull_ring,stroll,Aston Martin
+2022,11,13,red_bull_ring,zhou,Alfa Romeo
+2022,11,14,red_bull_ring,gasly,AlphaTauri
+2022,11,16,red_bull_ring,tsunoda,AlphaTauri
+2022,11,18,red_bull_ring,vettel,Aston Martin
+2022,11,3,red_bull_ring,sainz,Ferrari
+2022,11,17,red_bull_ring,latifi,Williams
+2022,11,5,red_bull_ring,perez,Red Bull
+2022,12,2,ricard,max_verstappen,Red Bull
+2022,12,4,ricard,hamilton,Mercedes
+2022,12,6,ricard,russell,Mercedes
+2022,12,3,ricard,perez,Red Bull
+2022,12,19,ricard,sainz,Ferrari
+2022,12,7,ricard,alonso,Alpine F1 Team
+2022,12,5,ricard,norris,McLaren
+2022,12,10,ricard,ocon,Alpine F1 Team
+2022,12,9,ricard,ricciardo,McLaren
+2022,12,15,ricard,stroll,Aston Martin
+2022,12,12,ricard,vettel,Aston Martin
+2022,12,14,ricard,gasly,AlphaTauri
+2022,12,13,ricard,albon,Williams
+2022,12,11,ricard,bottas,Alfa Romeo
+2022,12,17,ricard,mick_schumacher,Haas F1 Team
+2022,12,16,ricard,zhou,Alfa Romeo
+2022,12,18,ricard,latifi,Williams
+2022,12,20,ricard,kevin_magnussen,Haas F1 Team
+2022,12,1,ricard,leclerc,Ferrari
+2022,12,8,ricard,tsunoda,AlphaTauri
+2022,13,10,hungaroring,max_verstappen,Red Bull
+2022,13,7,hungaroring,hamilton,Mercedes
+2022,13,1,hungaroring,russell,Mercedes
+2022,13,2,hungaroring,sainz,Ferrari
+2022,13,11,hungaroring,perez,Red Bull
+2022,13,3,hungaroring,leclerc,Ferrari
+2022,13,4,hungaroring,norris,McLaren
+2022,13,6,hungaroring,alonso,Alpine F1 Team
+2022,13,5,hungaroring,ocon,Alpine F1 Team
+2022,13,18,hungaroring,vettel,Aston Martin
+2022,13,14,hungaroring,stroll,Aston Martin
+2022,13,20,hungaroring,gasly,AlphaTauri
+2022,13,12,hungaroring,zhou,Alfa Romeo
+2022,13,15,hungaroring,mick_schumacher,Haas F1 Team
+2022,13,9,hungaroring,ricciardo,McLaren
+2022,13,13,hungaroring,kevin_magnussen,Haas F1 Team
+2022,13,17,hungaroring,albon,Williams
+2022,13,19,hungaroring,latifi,Williams
+2022,13,16,hungaroring,tsunoda,AlphaTauri
+2022,13,8,hungaroring,bottas,Alfa Romeo
+2022,14,14,spa,max_verstappen,Red Bull
+2022,14,2,spa,perez,Red Bull
+2022,14,1,spa,sainz,Ferrari
+2022,14,5,spa,russell,Mercedes
+2022,14,3,spa,alonso,Alpine F1 Team
+2022,14,15,spa,leclerc,Ferrari
+2022,14,16,spa,ocon,Alpine F1 Team
+2022,14,10,spa,vettel,Aston Martin
+2022,14,20,spa,gasly,AlphaTauri
+2022,14,6,spa,albon,Williams
+2022,14,9,spa,stroll,Aston Martin
+2022,14,17,spa,norris,McLaren
+2022,14,20,spa,tsunoda,AlphaTauri
+2022,14,18,spa,zhou,Alfa Romeo
+2022,14,7,spa,ricciardo,McLaren
+2022,14,12,spa,kevin_magnussen,Haas F1 Team
+2022,14,19,spa,mick_schumacher,Haas F1 Team
+2022,14,11,spa,latifi,Williams
+2022,14,13,spa,bottas,Alfa Romeo
+2022,14,4,spa,hamilton,Mercedes
+2022,15,1,zandvoort,max_verstappen,Red Bull
+2022,15,6,zandvoort,russell,Mercedes
+2022,15,2,zandvoort,leclerc,Ferrari
+2022,15,4,zandvoort,hamilton,Mercedes
+2022,15,5,zandvoort,perez,Red Bull
+2022,15,13,zandvoort,alonso,Alpine F1 Team
+2022,15,7,zandvoort,norris,McLaren
+2022,15,3,zandvoort,sainz,Ferrari
+2022,15,12,zandvoort,ocon,Alpine F1 Team
+2022,15,10,zandvoort,stroll,Aston Martin
+2022,15,11,zandvoort,gasly,AlphaTauri
+2022,15,15,zandvoort,albon,Williams
+2022,15,8,zandvoort,mick_schumacher,Haas F1 Team
+2022,15,19,zandvoort,vettel,Aston Martin
+2022,15,18,zandvoort,kevin_magnussen,Haas F1 Team
+2022,15,14,zandvoort,zhou,Alfa Romeo
+2022,15,17,zandvoort,ricciardo,McLaren
+2022,15,20,zandvoort,latifi,Williams
+2022,15,16,zandvoort,bottas,Alfa Romeo
+2022,15,9,zandvoort,tsunoda,AlphaTauri
+2022,16,7,monza,max_verstappen,Red Bull
+2022,16,1,monza,leclerc,Ferrari
+2022,16,2,monza,russell,Mercedes
+2022,16,18,monza,sainz,Ferrari
+2022,16,19,monza,hamilton,Mercedes
+2022,16,13,monza,perez,Red Bull
+2022,16,3,monza,norris,McLaren
+2022,16,5,monza,gasly,AlphaTauri
+2022,16,8,monza,de_vries,Williams
+2022,16,9,monza,zhou,Alfa Romeo
+2022,16,14,monza,ocon,Alpine F1 Team
+2022,16,17,monza,mick_schumacher,Haas F1 Team
+2022,16,15,monza,bottas,Alfa Romeo
+2022,16,20,monza,tsunoda,AlphaTauri
+2022,16,10,monza,latifi,Williams
+2022,16,16,monza,kevin_magnussen,Haas F1 Team
+2022,16,4,monza,ricciardo,McLaren
+2022,16,12,monza,stroll,Aston Martin
+2022,16,6,monza,alonso,Alpine F1 Team
+2022,16,11,monza,vettel,Aston Martin
+2022,17,2,marina_bay,perez,Red Bull
+2022,17,1,marina_bay,leclerc,Ferrari
+2022,17,4,marina_bay,sainz,Ferrari
+2022,17,6,marina_bay,norris,McLaren
+2022,17,16,marina_bay,ricciardo,McLaren
+2022,17,11,marina_bay,stroll,Aston Martin
+2022,17,8,marina_bay,max_verstappen,Red Bull
+2022,17,13,marina_bay,vettel,Aston Martin
+2022,17,3,marina_bay,hamilton,Mercedes
+2022,17,7,marina_bay,gasly,AlphaTauri
+2022,17,15,marina_bay,bottas,Alfa Romeo
+2022,17,9,marina_bay,kevin_magnussen,Haas F1 Team
+2022,17,12,marina_bay,mick_schumacher,Haas F1 Team
+2022,17,20,marina_bay,russell,Mercedes
+2022,17,10,marina_bay,tsunoda,AlphaTauri
+2022,17,17,marina_bay,ocon,Alpine F1 Team
+2022,17,18,marina_bay,albon,Williams
+2022,17,5,marina_bay,alonso,Alpine F1 Team
+2022,17,19,marina_bay,latifi,Williams
+2022,17,14,marina_bay,zhou,Alfa Romeo
+2022,18,1,suzuka,max_verstappen,Red Bull
+2022,18,4,suzuka,perez,Red Bull
+2022,18,2,suzuka,leclerc,Ferrari
+2022,18,5,suzuka,ocon,Alpine F1 Team
+2022,18,6,suzuka,hamilton,Mercedes
+2022,18,9,suzuka,vettel,Aston Martin
+2022,18,7,suzuka,alonso,Alpine F1 Team
+2022,18,8,suzuka,russell,Mercedes
+2022,18,20,suzuka,latifi,Williams
+2022,18,10,suzuka,norris,McLaren
+2022,18,11,suzuka,ricciardo,McLaren
+2022,18,19,suzuka,stroll,Aston Martin
+2022,18,13,suzuka,tsunoda,AlphaTauri
+2022,18,18,suzuka,kevin_magnussen,Haas F1 Team
+2022,18,12,suzuka,bottas,Alfa Romeo
+2022,18,14,suzuka,zhou,Alfa Romeo
+2022,18,15,suzuka,mick_schumacher,Haas F1 Team
+2022,18,17,suzuka,gasly,AlphaTauri
+2022,18,3,suzuka,sainz,Ferrari
+2022,18,16,suzuka,albon,Williams
+2022,19,2,americas,max_verstappen,Red Bull
+2022,19,3,americas,hamilton,Mercedes
+2022,19,12,americas,leclerc,Ferrari
+2022,19,9,americas,perez,Red Bull
+2022,19,4,americas,russell,Mercedes
+2022,19,6,americas,norris,McLaren
+2022,19,14,americas,alonso,Alpine F1 Team
+2022,19,10,americas,vettel,Aston Martin
+2022,19,13,americas,kevin_magnussen,Haas F1 Team
+2022,19,19,americas,tsunoda,AlphaTauri
+2022,19,20,americas,ocon,Alpine F1 Team
+2022,19,18,americas,zhou,Alfa Romeo
+2022,19,8,americas,albon,Williams
+2022,19,11,americas,gasly,AlphaTauri
+2022,19,16,americas,mick_schumacher,Haas F1 Team
+2022,19,15,americas,ricciardo,McLaren
+2022,19,17,americas,latifi,Williams
+2022,19,5,americas,stroll,Aston Martin
+2022,19,7,americas,bottas,Alfa Romeo
+2022,19,1,americas,sainz,Ferrari
+2022,20,1,rodriguez,max_verstappen,Red Bull
+2022,20,3,rodriguez,hamilton,Mercedes
+2022,20,4,rodriguez,perez,Red Bull
+2022,20,2,rodriguez,russell,Mercedes
+2022,20,5,rodriguez,sainz,Ferrari
+2022,20,7,rodriguez,leclerc,Ferrari
+2022,20,11,rodriguez,ricciardo,McLaren
+2022,20,10,rodriguez,ocon,Alpine F1 Team
+2022,20,8,rodriguez,norris,McLaren
+2022,20,6,rodriguez,bottas,Alfa Romeo
+2022,20,14,rodriguez,gasly,AlphaTauri
+2022,20,17,rodriguez,albon,Williams
+2022,20,12,rodriguez,zhou,Alfa Romeo
+2022,20,16,rodriguez,vettel,Aston Martin
+2022,20,20,rodriguez,stroll,Aston Martin
+2022,20,15,rodriguez,mick_schumacher,Haas F1 Team
+2022,20,19,rodriguez,kevin_magnussen,Haas F1 Team
+2022,20,18,rodriguez,latifi,Williams
+2022,20,9,rodriguez,alonso,Alpine F1 Team
+2022,20,13,rodriguez,tsunoda,AlphaTauri
+2022,21,1,interlagos,russell,Mercedes
+2022,21,2,interlagos,hamilton,Mercedes
+2022,21,7,interlagos,sainz,Ferrari
+2022,21,5,interlagos,leclerc,Ferrari
+2022,21,17,interlagos,alonso,Alpine F1 Team
+2022,21,3,interlagos,max_verstappen,Red Bull
+2022,21,4,interlagos,perez,Red Bull
+2022,21,16,interlagos,ocon,Alpine F1 Team
+2022,21,14,interlagos,bottas,Alfa Romeo
+2022,21,15,interlagos,stroll,Aston Martin
+2022,21,9,interlagos,vettel,Aston Martin
+2022,21,13,interlagos,zhou,Alfa Romeo
+2022,21,12,interlagos,mick_schumacher,Haas F1 Team
+2022,21,10,interlagos,gasly,AlphaTauri
+2022,21,19,interlagos,albon,Williams
+2022,21,18,interlagos,latifi,Williams
+2022,21,20,interlagos,tsunoda,AlphaTauri
+2022,21,6,interlagos,norris,McLaren
+2022,21,8,interlagos,kevin_magnussen,Haas F1 Team
+2022,21,11,interlagos,ricciardo,McLaren
+2022,22,1,yas_marina,max_verstappen,Red Bull
+2022,22,3,yas_marina,leclerc,Ferrari
+2022,22,2,yas_marina,perez,Red Bull
+2022,22,4,yas_marina,sainz,Ferrari
+2022,22,6,yas_marina,russell,Mercedes
+2022,22,7,yas_marina,norris,McLaren
+2022,22,8,yas_marina,ocon,Alpine F1 Team
+2022,22,14,yas_marina,stroll,Aston Martin
+2022,22,13,yas_marina,ricciardo,McLaren
+2022,22,9,yas_marina,vettel,Aston Martin
+2022,22,11,yas_marina,tsunoda,AlphaTauri
+2022,22,15,yas_marina,zhou,Alfa Romeo
+2022,22,19,yas_marina,albon,Williams
+2022,22,17,yas_marina,gasly,AlphaTauri
+2022,22,18,yas_marina,bottas,Alfa Romeo
+2022,22,12,yas_marina,mick_schumacher,Haas F1 Team
+2022,22,16,yas_marina,kevin_magnussen,Haas F1 Team
+2022,22,5,yas_marina,hamilton,Mercedes
+2022,22,20,yas_marina,latifi,Williams
+2022,22,10,yas_marina,alonso,Alpine F1 Team
+2023,1,1,bahrain,max_verstappen,Red Bull
+2023,1,2,bahrain,perez,Red Bull
+2023,1,5,bahrain,alonso,Aston Martin
+2023,1,4,bahrain,sainz,Ferrari
+2023,1,7,bahrain,hamilton,Mercedes
+2023,1,8,bahrain,stroll,Aston Martin
+2023,1,6,bahrain,russell,Mercedes
+2023,1,12,bahrain,bottas,Alfa Romeo
+2023,1,20,bahrain,gasly,Alpine F1 Team
+2023,1,15,bahrain,albon,Williams
+2023,1,14,bahrain,tsunoda,AlphaTauri
+2023,1,16,bahrain,sargeant,Williams
+2023,1,17,bahrain,kevin_magnussen,Haas F1 Team
+2023,1,19,bahrain,de_vries,AlphaTauri
+2023,1,10,bahrain,hulkenberg,Haas F1 Team
+2023,1,13,bahrain,zhou,Alfa Romeo
+2023,1,11,bahrain,norris,McLaren
+2023,1,9,bahrain,ocon,Alpine F1 Team
+2023,1,3,bahrain,leclerc,Ferrari
+2023,1,18,bahrain,piastri,McLaren
+2023,2,1,jeddah,perez,Red Bull
+2023,2,15,jeddah,max_verstappen,Red Bull
+2023,2,2,jeddah,alonso,Aston Martin
+2023,2,3,jeddah,russell,Mercedes
+2023,2,7,jeddah,hamilton,Mercedes
+2023,2,4,jeddah,sainz,Ferrari
+2023,2,12,jeddah,leclerc,Ferrari
+2023,2,6,jeddah,ocon,Alpine F1 Team
+2023,2,9,jeddah,gasly,Alpine F1 Team
+2023,2,13,jeddah,kevin_magnussen,Haas F1 Team
+2023,2,16,jeddah,tsunoda,AlphaTauri
+2023,2,10,jeddah,hulkenberg,Haas F1 Team
+2023,2,11,jeddah,zhou,Alfa Romeo
+2023,2,18,jeddah,de_vries,AlphaTauri
+2023,2,8,jeddah,piastri,McLaren
+2023,2,20,jeddah,sargeant,Williams
+2023,2,19,jeddah,norris,McLaren
+2023,2,14,jeddah,bottas,Alfa Romeo
+2023,2,17,jeddah,albon,Williams
+2023,2,5,jeddah,stroll,Aston Martin
+2023,3,1,albert_park,max_verstappen,Red Bull
+2023,3,3,albert_park,hamilton,Mercedes
+2023,3,4,albert_park,alonso,Aston Martin
+2023,3,6,albert_park,stroll,Aston Martin
+2023,3,20,albert_park,perez,Red Bull
+2023,3,13,albert_park,norris,McLaren
+2023,3,10,albert_park,hulkenberg,Haas F1 Team
+2023,3,16,albert_park,piastri,McLaren
+2023,3,17,albert_park,zhou,Alfa Romeo
+2023,3,12,albert_park,tsunoda,AlphaTauri
+2023,3,20,albert_park,bottas,Alfa Romeo
+2023,3,5,albert_park,sainz,Ferrari
+2023,3,9,albert_park,gasly,Alpine F1 Team
+2023,3,11,albert_park,ocon,Alpine F1 Team
+2023,3,15,albert_park,de_vries,AlphaTauri
+2023,3,18,albert_park,sargeant,Williams
+2023,3,14,albert_park,kevin_magnussen,Haas F1 Team
+2023,3,2,albert_park,russell,Mercedes
+2023,3,8,albert_park,albon,Williams
+2023,3,7,albert_park,leclerc,Ferrari
+2023,4,3,baku,perez,Red Bull
+2023,4,2,baku,max_verstappen,Red Bull
+2023,4,1,baku,leclerc,Ferrari
+2023,4,6,baku,alonso,Aston Martin
+2023,4,4,baku,sainz,Ferrari
+2023,4,5,baku,hamilton,Mercedes
+2023,4,9,baku,stroll,Aston Martin
+2023,4,11,baku,russell,Mercedes
+2023,4,7,baku,norris,McLaren
+2023,4,8,baku,tsunoda,AlphaTauri
+2023,4,10,baku,piastri,McLaren
+2023,4,12,baku,albon,Williams
+2023,4,16,baku,kevin_magnussen,Haas F1 Team
+2023,4,17,baku,gasly,Alpine F1 Team
+2023,4,20,baku,ocon,Alpine F1 Team
+2023,4,14,baku,sargeant,Williams
+2023,4,20,baku,hulkenberg,Haas F1 Team
+2023,4,13,baku,bottas,Alfa Romeo
+2023,4,15,baku,zhou,Alfa Romeo
+2023,4,18,baku,de_vries,AlphaTauri
+2023,5,9,miami,max_verstappen,Red Bull
+2023,5,1,miami,perez,Red Bull
+2023,5,2,miami,alonso,Aston Martin
+2023,5,6,miami,russell,Mercedes
+2023,5,3,miami,sainz,Ferrari
+2023,5,13,miami,hamilton,Mercedes
+2023,5,7,miami,leclerc,Ferrari
+2023,5,5,miami,gasly,Alpine F1 Team
+2023,5,8,miami,ocon,Alpine F1 Team
+2023,5,4,miami,kevin_magnussen,Haas F1 Team
+2023,5,17,miami,tsunoda,AlphaTauri
+2023,5,18,miami,stroll,Aston Martin
+2023,5,10,miami,bottas,Alfa Romeo
+2023,5,11,miami,albon,Williams
+2023,5,12,miami,hulkenberg,Haas F1 Team
+2023,5,14,miami,zhou,Alfa Romeo
+2023,5,16,miami,norris,McLaren
+2023,5,15,miami,de_vries,AlphaTauri
+2023,5,19,miami,piastri,McLaren
+2023,5,20,miami,sargeant,Williams
+2023,6,1,monaco,max_verstappen,Red Bull
+2023,6,2,monaco,alonso,Aston Martin
+2023,6,3,monaco,ocon,Alpine F1 Team
+2023,6,5,monaco,hamilton,Mercedes
+2023,6,8,monaco,russell,Mercedes
+2023,6,6,monaco,leclerc,Ferrari
+2023,6,7,monaco,gasly,Alpine F1 Team
+2023,6,4,monaco,sainz,Ferrari
+2023,6,10,monaco,norris,McLaren
+2023,6,11,monaco,piastri,McLaren
+2023,6,15,monaco,bottas,Alfa Romeo
+2023,6,12,monaco,de_vries,AlphaTauri
+2023,6,19,monaco,zhou,Alfa Romeo
+2023,6,13,monaco,albon,Williams
+2023,6,9,monaco,tsunoda,AlphaTauri
+2023,6,20,monaco,perez,Red Bull
+2023,6,18,monaco,hulkenberg,Haas F1 Team
+2023,6,16,monaco,sargeant,Williams
+2023,6,17,monaco,kevin_magnussen,Haas F1 Team
+2023,6,14,monaco,stroll,Aston Martin
+2023,7,1,catalunya,max_verstappen,Red Bull
+2023,7,4,catalunya,hamilton,Mercedes
+2023,7,12,catalunya,russell,Mercedes
+2023,7,11,catalunya,perez,Red Bull
+2023,7,2,catalunya,sainz,Ferrari
+2023,7,5,catalunya,stroll,Aston Martin
+2023,7,8,catalunya,alonso,Aston Martin
+2023,7,6,catalunya,ocon,Alpine F1 Team
+2023,7,13,catalunya,zhou,Alfa Romeo
+2023,7,10,catalunya,gasly,Alpine F1 Team
+2023,7,19,catalunya,leclerc,Ferrari
+2023,7,15,catalunya,tsunoda,AlphaTauri
+2023,7,9,catalunya,piastri,McLaren
+2023,7,14,catalunya,de_vries,AlphaTauri
+2023,7,7,catalunya,hulkenberg,Haas F1 Team
+2023,7,18,catalunya,albon,Williams
+2023,7,3,catalunya,norris,McLaren
+2023,7,17,catalunya,kevin_magnussen,Haas F1 Team
+2023,7,16,catalunya,bottas,Alfa Romeo
+2023,7,20,catalunya,sargeant,Williams
+2023,8,1,villeneuve,max_verstappen,Red Bull
+2023,8,2,villeneuve,alonso,Aston Martin
+2023,8,3,villeneuve,hamilton,Mercedes
+2023,8,10,villeneuve,leclerc,Ferrari
+2023,8,11,villeneuve,sainz,Ferrari
+2023,8,12,villeneuve,perez,Red Bull
+2023,8,9,villeneuve,albon,Williams
+2023,8,6,villeneuve,ocon,Alpine F1 Team
+2023,8,16,villeneuve,stroll,Aston Martin
+2023,8,14,villeneuve,bottas,Alfa Romeo
+2023,8,8,villeneuve,piastri,McLaren
+2023,8,15,villeneuve,gasly,Alpine F1 Team
+2023,8,7,villeneuve,norris,McLaren
+2023,8,19,villeneuve,tsunoda,AlphaTauri
+2023,8,5,villeneuve,hulkenberg,Haas F1 Team
+2023,8,20,villeneuve,zhou,Alfa Romeo
+2023,8,13,villeneuve,kevin_magnussen,Haas F1 Team
+2023,8,17,villeneuve,de_vries,AlphaTauri
+2023,8,4,villeneuve,russell,Mercedes
+2023,8,18,villeneuve,sargeant,Williams
+2023,9,1,red_bull_ring,max_verstappen,Red Bull
+2023,9,2,red_bull_ring,leclerc,Ferrari
+2023,9,15,red_bull_ring,perez,Red Bull
+2023,9,4,red_bull_ring,norris,McLaren
+2023,9,7,red_bull_ring,alonso,Aston Martin
+2023,9,3,red_bull_ring,sainz,Ferrari
+2023,9,11,red_bull_ring,russell,Mercedes
+2023,9,5,red_bull_ring,hamilton,Mercedes
+2023,9,6,red_bull_ring,stroll,Aston Martin
+2023,9,9,red_bull_ring,gasly,Alpine F1 Team
+2023,9,10,red_bull_ring,albon,Williams
+2023,9,17,red_bull_ring,zhou,Alfa Romeo
+2023,9,18,red_bull_ring,sargeant,Williams
+2023,9,12,red_bull_ring,ocon,Alpine F1 Team
+2023,9,14,red_bull_ring,bottas,Alfa Romeo
+2023,9,13,red_bull_ring,piastri,McLaren
+2023,9,20,red_bull_ring,de_vries,AlphaTauri
+2023,9,20,red_bull_ring,kevin_magnussen,Haas F1 Team
+2023,9,16,red_bull_ring,tsunoda,AlphaTauri
+2023,9,8,red_bull_ring,hulkenberg,Haas F1 Team
+2023,10,1,silverstone,max_verstappen,Red Bull
+2023,10,2,silverstone,norris,McLaren
+2023,10,7,silverstone,hamilton,Mercedes
+2023,10,3,silverstone,piastri,McLaren
+2023,10,6,silverstone,russell,Mercedes
+2023,10,15,silverstone,perez,Red Bull
+2023,10,9,silverstone,alonso,Aston Martin
+2023,10,8,silverstone,albon,Williams
+2023,10,4,silverstone,leclerc,Ferrari
+2023,10,5,silverstone,sainz,Ferrari
+2023,10,14,silverstone,sargeant,Williams
+2023,10,20,silverstone,bottas,Alfa Romeo
+2023,10,11,silverstone,hulkenberg,Haas F1 Team
+2023,10,12,silverstone,stroll,Aston Martin
+2023,10,17,silverstone,zhou,Alfa Romeo
+2023,10,16,silverstone,tsunoda,AlphaTauri
+2023,10,18,silverstone,de_vries,AlphaTauri
+2023,10,10,silverstone,gasly,Alpine F1 Team
+2023,10,19,silverstone,kevin_magnussen,Haas F1 Team
+2023,10,13,silverstone,ocon,Alpine F1 Team
+2023,11,2,hungaroring,max_verstappen,Red Bull
+2023,11,3,hungaroring,norris,McLaren
+2023,11,9,hungaroring,perez,Red Bull
+2023,11,1,hungaroring,hamilton,Mercedes
+2023,11,4,hungaroring,piastri,McLaren
+2023,11,18,hungaroring,russell,Mercedes
+2023,11,6,hungaroring,leclerc,Ferrari
+2023,11,11,hungaroring,sainz,Ferrari
+2023,11,8,hungaroring,alonso,Aston Martin
+2023,11,14,hungaroring,stroll,Aston Martin
+2023,11,16,hungaroring,albon,Williams
+2023,11,7,hungaroring,bottas,Alfa Romeo
+2023,11,13,hungaroring,ricciardo,AlphaTauri
+2023,11,10,hungaroring,hulkenberg,Haas F1 Team
+2023,11,17,hungaroring,tsunoda,AlphaTauri
+2023,11,5,hungaroring,zhou,Alfa Romeo
+2023,11,19,hungaroring,kevin_magnussen,Haas F1 Team
+2023,11,20,hungaroring,sargeant,Williams
+2023,11,12,hungaroring,ocon,Alpine F1 Team
+2023,11,15,hungaroring,gasly,Alpine F1 Team
+2023,12,6,spa,max_verstappen,Red Bull
+2023,12,2,spa,perez,Red Bull
+2023,12,1,spa,leclerc,Ferrari
+2023,12,3,spa,hamilton,Mercedes
+2023,12,9,spa,alonso,Aston Martin
+2023,12,8,spa,russell,Mercedes
+2023,12,7,spa,norris,McLaren
+2023,12,14,spa,ocon,Alpine F1 Team
+2023,12,10,spa,stroll,Aston Martin
+2023,12,11,spa,tsunoda,AlphaTauri
+2023,12,12,spa,gasly,Alpine F1 Team
+2023,12,13,spa,bottas,Alfa Romeo
+2023,12,17,spa,zhou,Alfa Romeo
+2023,12,15,spa,albon,Williams
+2023,12,16,spa,kevin_magnussen,Haas F1 Team
+2023,12,19,spa,ricciardo,AlphaTauri
+2023,12,18,spa,sargeant,Williams
+2023,12,20,spa,hulkenberg,Haas F1 Team
+2023,12,4,spa,sainz,Ferrari
+2023,12,5,spa,piastri,McLaren
+2023,13,1,zandvoort,max_verstappen,Red Bull
+2023,13,5,zandvoort,alonso,Aston Martin
+2023,13,12,zandvoort,gasly,Alpine F1 Team
+2023,13,7,zandvoort,perez,Red Bull
+2023,13,6,zandvoort,sainz,Ferrari
+2023,13,13,zandvoort,hamilton,Mercedes
+2023,13,2,zandvoort,norris,McLaren
+2023,13,4,zandvoort,albon,Williams
+2023,13,8,zandvoort,piastri,McLaren
+2023,13,16,zandvoort,ocon,Alpine F1 Team
+2023,13,11,zandvoort,stroll,Aston Martin
+2023,13,14,zandvoort,hulkenberg,Haas F1 Team
+2023,13,19,zandvoort,lawson,AlphaTauri
+2023,13,18,zandvoort,bottas,Alfa Romeo
+2023,13,17,zandvoort,tsunoda,AlphaTauri
+2023,13,20,zandvoort,kevin_magnussen,Haas F1 Team
+2023,13,3,zandvoort,russell,Mercedes
+2023,13,15,zandvoort,zhou,Alfa Romeo
+2023,13,9,zandvoort,leclerc,Ferrari
+2023,13,10,zandvoort,sargeant,Williams
+2023,14,2,monza,max_verstappen,Red Bull
+2023,14,5,monza,perez,Red Bull
+2023,14,1,monza,sainz,Ferrari
+2023,14,3,monza,leclerc,Ferrari
+2023,14,4,monza,russell,Mercedes
+2023,14,8,monza,hamilton,Mercedes
+2023,14,6,monza,albon,Williams
+2023,14,9,monza,norris,McLaren
+2023,14,10,monza,alonso,Aston Martin
+2023,14,14,monza,bottas,Alfa Romeo
+2023,14,12,monza,lawson,AlphaTauri
+2023,14,7,monza,piastri,McLaren
+2023,14,15,monza,sargeant,Williams
+2023,14,16,monza,zhou,Alfa Romeo
+2023,14,17,monza,gasly,Alpine F1 Team
+2023,14,20,monza,stroll,Aston Martin
+2023,14,13,monza,hulkenberg,Haas F1 Team
+2023,14,19,monza,kevin_magnussen,Haas F1 Team
+2023,14,18,monza,ocon,Alpine F1 Team
+2023,14,11,monza,tsunoda,AlphaTauri
+2023,15,1,marina_bay,sainz,Ferrari
+2023,15,4,marina_bay,norris,McLaren
+2023,15,5,marina_bay,hamilton,Mercedes
+2023,15,3,marina_bay,leclerc,Ferrari
+2023,15,11,marina_bay,max_verstappen,Red Bull
+2023,15,12,marina_bay,gasly,Alpine F1 Team
+2023,15,17,marina_bay,piastri,McLaren
+2023,15,13,marina_bay,perez,Red Bull
+2023,15,10,marina_bay,lawson,AlphaTauri
+2023,15,6,marina_bay,kevin_magnussen,Haas F1 Team
+2023,15,14,marina_bay,albon,Williams
+2023,15,20,marina_bay,zhou,Alfa Romeo
+2023,15,9,marina_bay,hulkenberg,Haas F1 Team
+2023,15,18,marina_bay,sargeant,Williams
+2023,15,7,marina_bay,alonso,Aston Martin
+2023,15,2,marina_bay,russell,Mercedes
+2023,15,16,marina_bay,bottas,Alfa Romeo
+2023,15,8,marina_bay,ocon,Alpine F1 Team
+2023,15,15,marina_bay,tsunoda,AlphaTauri
+2023,15,20,marina_bay,stroll,Aston Martin
+2023,16,1,suzuka,max_verstappen,Red Bull
+2023,16,3,suzuka,norris,McLaren
+2023,16,2,suzuka,piastri,McLaren
+2023,16,4,suzuka,leclerc,Ferrari
+2023,16,7,suzuka,hamilton,Mercedes
+2023,16,6,suzuka,sainz,Ferrari
+2023,16,8,suzuka,russell,Mercedes
+2023,16,10,suzuka,alonso,Aston Martin
+2023,16,14,suzuka,ocon,Alpine F1 Team
+2023,16,12,suzuka,gasly,Alpine F1 Team
+2023,16,11,suzuka,lawson,AlphaTauri
+2023,16,9,suzuka,tsunoda,AlphaTauri
+2023,16,19,suzuka,zhou,Alfa Romeo
+2023,16,18,suzuka,hulkenberg,Haas F1 Team
+2023,16,15,suzuka,kevin_magnussen,Haas F1 Team
+2023,16,13,suzuka,albon,Williams
+2023,16,20,suzuka,sargeant,Williams
+2023,16,17,suzuka,stroll,Aston Martin
+2023,16,5,suzuka,perez,Red Bull
+2023,16,16,suzuka,bottas,Alfa Romeo
+2023,17,1,losail,max_verstappen,Red Bull
+2023,17,6,losail,piastri,McLaren
+2023,17,10,losail,norris,McLaren
+2023,17,2,losail,russell,Mercedes
+2023,17,5,losail,leclerc,Ferrari
+2023,17,4,losail,alonso,Aston Martin
+2023,17,8,losail,ocon,Alpine F1 Team
+2023,17,9,losail,bottas,Alfa Romeo
+2023,17,19,losail,zhou,Alfa Romeo
+2023,17,20,losail,perez,Red Bull
+2023,17,16,losail,stroll,Aston Martin
+2023,17,7,losail,gasly,Alpine F1 Team
+2023,17,13,losail,albon,Williams
+2023,17,18,losail,kevin_magnussen,Haas F1 Team
+2023,17,11,losail,tsunoda,AlphaTauri
+2023,17,14,losail,hulkenberg,Haas F1 Team
+2023,17,17,losail,lawson,AlphaTauri
+2023,17,15,losail,sargeant,Williams
+2023,17,3,losail,hamilton,Mercedes
+2023,17,12,losail,sainz,Ferrari
+2023,18,6,americas,max_verstappen,Red Bull
+2023,18,2,americas,norris,McLaren
+2023,18,4,americas,sainz,Ferrari
+2023,18,9,americas,perez,Red Bull
+2023,18,5,americas,russell,Mercedes
+2023,18,7,americas,gasly,Alpine F1 Team
+2023,18,20,americas,stroll,Aston Martin
+2023,18,11,americas,tsunoda,AlphaTauri
+2023,18,15,americas,albon,Williams
+2023,18,16,americas,sargeant,Williams
+2023,18,20,americas,hulkenberg,Haas F1 Team
+2023,18,13,americas,bottas,Alfa Romeo
+2023,18,12,americas,zhou,Alfa Romeo
+2023,18,20,americas,kevin_magnussen,Haas F1 Team
+2023,18,14,americas,ricciardo,AlphaTauri
+2023,18,20,americas,alonso,Aston Martin
+2023,18,10,americas,piastri,McLaren
+2023,18,8,americas,ocon,Alpine F1 Team
+2023,18,3,americas,hamilton,Mercedes
+2023,18,1,americas,leclerc,Ferrari
+2023,19,3,rodriguez,max_verstappen,Red Bull
+2023,19,6,rodriguez,hamilton,Mercedes
+2023,19,1,rodriguez,leclerc,Ferrari
+2023,19,2,rodriguez,sainz,Ferrari
+2023,19,17,rodriguez,norris,McLaren
+2023,19,8,rodriguez,russell,Mercedes
+2023,19,4,rodriguez,ricciardo,AlphaTauri
+2023,19,7,rodriguez,piastri,McLaren
+2023,19,14,rodriguez,albon,Williams
+2023,19,15,rodriguez,ocon,Alpine F1 Team
+2023,19,11,rodriguez,gasly,Alpine F1 Team
+2023,19,18,rodriguez,tsunoda,AlphaTauri
+2023,19,12,rodriguez,hulkenberg,Haas F1 Team
+2023,19,10,rodriguez,zhou,Alfa Romeo
+2023,19,9,rodriguez,bottas,Alfa Romeo
+2023,19,19,rodriguez,sargeant,Williams
+2023,19,20,rodriguez,stroll,Aston Martin
+2023,19,13,rodriguez,alonso,Aston Martin
+2023,19,16,rodriguez,kevin_magnussen,Haas F1 Team
+2023,19,5,rodriguez,perez,Red Bull
+2023,20,1,interlagos,max_verstappen,Red Bull
+2023,20,6,interlagos,norris,McLaren
+2023,20,4,interlagos,alonso,Aston Martin
+2023,20,9,interlagos,perez,Red Bull
+2023,20,3,interlagos,stroll,Aston Martin
+2023,20,7,interlagos,sainz,Ferrari
+2023,20,15,interlagos,gasly,Alpine F1 Team
+2023,20,5,interlagos,hamilton,Mercedes
+2023,20,16,interlagos,tsunoda,AlphaTauri
+2023,20,14,interlagos,ocon,Alpine F1 Team
+2023,20,19,interlagos,sargeant,Williams
+2023,20,11,interlagos,hulkenberg,Haas F1 Team
+2023,20,17,interlagos,ricciardo,AlphaTauri
+2023,20,10,interlagos,piastri,McLaren
+2023,20,8,interlagos,russell,Mercedes
+2023,20,18,interlagos,bottas,Alfa Romeo
+2023,20,20,interlagos,zhou,Alfa Romeo
+2023,20,12,interlagos,kevin_magnussen,Haas F1 Team
+2023,20,13,interlagos,albon,Williams
+2023,20,20,interlagos,leclerc,Ferrari
+2023,21,2,vegas,max_verstappen,Red Bull
+2023,21,1,vegas,leclerc,Ferrari
+2023,21,11,vegas,perez,Red Bull
+2023,21,16,vegas,ocon,Alpine F1 Team
+2023,21,19,vegas,stroll,Aston Martin
+2023,21,12,vegas,sainz,Ferrari
+2023,21,10,vegas,hamilton,Mercedes
+2023,21,3,vegas,russell,Mercedes
+2023,21,9,vegas,alonso,Aston Martin
+2023,21,18,vegas,piastri,McLaren
+2023,21,4,vegas,gasly,Alpine F1 Team
+2023,21,5,vegas,albon,Williams
+2023,21,8,vegas,kevin_magnussen,Haas F1 Team
+2023,21,14,vegas,ricciardo,AlphaTauri
+2023,21,17,vegas,zhou,Alfa Romeo
+2023,21,6,vegas,sargeant,Williams
+2023,21,7,vegas,bottas,Alfa Romeo
+2023,21,20,vegas,tsunoda,AlphaTauri
+2023,21,13,vegas,hulkenberg,Haas F1 Team
+2023,21,15,vegas,norris,McLaren
+2023,22,1,yas_marina,max_verstappen,Red Bull
+2023,22,2,yas_marina,leclerc,Ferrari
+2023,22,4,yas_marina,russell,Mercedes
+2023,22,9,yas_marina,perez,Red Bull
+2023,22,5,yas_marina,norris,McLaren
+2023,22,3,yas_marina,piastri,McLaren
+2023,22,7,yas_marina,alonso,Aston Martin
+2023,22,6,yas_marina,tsunoda,AlphaTauri
+2023,22,11,yas_marina,hamilton,Mercedes
+2023,22,13,yas_marina,stroll,Aston Martin
+2023,22,15,yas_marina,ricciardo,AlphaTauri
+2023,22,12,yas_marina,ocon,Alpine F1 Team
+2023,22,10,yas_marina,gasly,Alpine F1 Team
+2023,22,14,yas_marina,albon,Williams
+2023,22,8,yas_marina,hulkenberg,Haas F1 Team
+2023,22,20,yas_marina,sargeant,Williams
+2023,22,19,yas_marina,zhou,Alfa Romeo
+2023,22,16,yas_marina,sainz,Ferrari
+2023,22,18,yas_marina,bottas,Alfa Romeo
+2023,22,17,yas_marina,kevin_magnussen,Haas F1 Team
+2024,1,1,bahrain,max_verstappen,Red Bull
+2024,1,5,bahrain,perez,Red Bull
+2024,1,4,bahrain,sainz,Ferrari
+2024,1,2,bahrain,leclerc,Ferrari
+2024,1,3,bahrain,russell,Mercedes
+2024,1,7,bahrain,norris,McLaren
+2024,1,9,bahrain,hamilton,Mercedes
+2024,1,8,bahrain,piastri,McLaren
+2024,1,6,bahrain,alonso,Aston Martin
+2024,1,12,bahrain,stroll,Aston Martin
+2024,1,17,bahrain,zhou,Sauber
+2024,1,15,bahrain,kevin_magnussen,Haas F1 Team
+2024,1,14,bahrain,ricciardo,RB F1 Team
+2024,1,11,bahrain,tsunoda,RB F1 Team
+2024,1,13,bahrain,albon,Williams
+2024,1,10,bahrain,hulkenberg,Haas F1 Team
+2024,1,19,bahrain,ocon,Alpine F1 Team
+2024,1,20,bahrain,gasly,Alpine F1 Team
+2024,1,16,bahrain,bottas,Sauber
+2024,1,18,bahrain,sargeant,Williams
+2024,2,1,jeddah,max_verstappen,Red Bull
+2024,2,3,jeddah,perez,Red Bull
+2024,2,2,jeddah,leclerc,Ferrari
+2024,2,5,jeddah,piastri,McLaren
+2024,2,4,jeddah,alonso,Aston Martin
+2024,2,7,jeddah,russell,Mercedes
+2024,2,11,jeddah,bearman,Ferrari
+2024,2,6,jeddah,norris,McLaren
+2024,2,8,jeddah,hamilton,Mercedes
+2024,2,15,jeddah,hulkenberg,Haas F1 Team
+2024,2,12,jeddah,albon,Williams
+2024,2,13,jeddah,kevin_magnussen,Haas F1 Team
+2024,2,17,jeddah,ocon,Alpine F1 Team
+2024,2,19,jeddah,sargeant,Williams
+2024,2,9,jeddah,tsunoda,RB F1 Team
+2024,2,14,jeddah,ricciardo,RB F1 Team
+2024,2,16,jeddah,bottas,Sauber
+2024,2,20,jeddah,zhou,Sauber
+2024,2,10,jeddah,stroll,Aston Martin
+2024,2,18,jeddah,gasly,Alpine F1 Team
+2024,3,2,albert_park,sainz,Ferrari
+2024,3,4,albert_park,leclerc,Ferrari
+2024,3,3,albert_park,norris,McLaren
+2024,3,5,albert_park,piastri,McLaren
+2024,3,6,albert_park,perez,Red Bull
+2024,3,9,albert_park,stroll,Aston Martin
+2024,3,8,albert_park,tsunoda,RB F1 Team
+2024,3,10,albert_park,alonso,Aston Martin
+2024,3,16,albert_park,hulkenberg,Haas F1 Team
+2024,3,14,albert_park,kevin_magnussen,Haas F1 Team
+2024,3,12,albert_park,albon,Williams
+2024,3,18,albert_park,ricciardo,RB F1 Team
+2024,3,17,albert_park,gasly,Alpine F1 Team
+2024,3,13,albert_park,bottas,Sauber
+2024,3,19,albert_park,zhou,Sauber
+2024,3,15,albert_park,ocon,Alpine F1 Team
+2024,3,7,albert_park,russell,Mercedes
+2024,3,11,albert_park,hamilton,Mercedes
+2024,3,1,albert_park,max_verstappen,Red Bull
+2024,4,1,suzuka,max_verstappen,Red Bull
+2024,4,2,suzuka,perez,Red Bull
+2024,4,4,suzuka,sainz,Ferrari
+2024,4,8,suzuka,leclerc,Ferrari
+2024,4,3,suzuka,norris,McLaren
+2024,4,5,suzuka,alonso,Aston Martin
+2024,4,9,suzuka,russell,Mercedes
+2024,4,6,suzuka,piastri,McLaren
+2024,4,7,suzuka,hamilton,Mercedes
+2024,4,10,suzuka,tsunoda,RB F1 Team
+2024,4,12,suzuka,hulkenberg,Haas F1 Team
+2024,4,16,suzuka,stroll,Aston Martin
+2024,4,18,suzuka,kevin_magnussen,Haas F1 Team
+2024,4,13,suzuka,bottas,Sauber
+2024,4,15,suzuka,ocon,Alpine F1 Team
+2024,4,17,suzuka,gasly,Alpine F1 Team
+2024,4,19,suzuka,sargeant,Williams
+2024,4,20,suzuka,zhou,Sauber
+2024,4,11,suzuka,ricciardo,RB F1 Team
+2024,4,14,suzuka,albon,Williams
+2024,5,1,shanghai,max_verstappen,Red Bull
+2024,5,4,shanghai,norris,McLaren
+2024,5,2,shanghai,perez,Red Bull
+2024,5,6,shanghai,leclerc,Ferrari
+2024,5,7,shanghai,sainz,Ferrari
+2024,5,8,shanghai,russell,Mercedes
+2024,5,3,shanghai,alonso,Aston Martin
+2024,5,5,shanghai,piastri,McLaren
+2024,5,18,shanghai,hamilton,Mercedes
+2024,5,9,shanghai,hulkenberg,Haas F1 Team
+2024,5,13,shanghai,ocon,Alpine F1 Team
+2024,5,14,shanghai,albon,Williams
+2024,5,15,shanghai,gasly,Alpine F1 Team
+2024,5,16,shanghai,zhou,Sauber
+2024,5,11,shanghai,stroll,Aston Martin
+2024,5,17,shanghai,kevin_magnussen,Haas F1 Team
+2024,5,20,shanghai,sargeant,Williams
+2024,5,12,shanghai,ricciardo,RB F1 Team
+2024,5,19,shanghai,tsunoda,RB F1 Team
+2024,5,10,shanghai,bottas,Sauber
+2024,6,5,miami,norris,McLaren
+2024,6,1,miami,max_verstappen,Red Bull
+2024,6,2,miami,leclerc,Ferrari
+2024,6,4,miami,perez,Red Bull
+2024,6,3,miami,sainz,Ferrari
+2024,6,8,miami,hamilton,Mercedes
+2024,6,10,miami,tsunoda,RB F1 Team
+2024,6,7,miami,russell,Mercedes
+2024,6,15,miami,alonso,Aston Martin
+2024,6,13,miami,ocon,Alpine F1 Team
+2024,6,9,miami,hulkenberg,Haas F1 Team
+2024,6,12,miami,gasly,Alpine F1 Team
+2024,6,6,miami,piastri,McLaren
+2024,6,19,miami,zhou,Sauber
+2024,6,20,miami,ricciardo,RB F1 Team
+2024,6,16,miami,bottas,Sauber
+2024,6,11,miami,stroll,Aston Martin
+2024,6,14,miami,albon,Williams
+2024,6,18,miami,kevin_magnussen,Haas F1 Team
+2024,6,17,miami,sargeant,Williams
+2024,7,1,imola,max_verstappen,Red Bull
+2024,7,2,imola,norris,McLaren
+2024,7,3,imola,leclerc,Ferrari
+2024,7,5,imola,piastri,McLaren
+2024,7,4,imola,sainz,Ferrari
+2024,7,8,imola,hamilton,Mercedes
+2024,7,6,imola,russell,Mercedes
+2024,7,11,imola,perez,Red Bull
+2024,7,13,imola,stroll,Aston Martin
+2024,7,7,imola,tsunoda,RB F1 Team
+2024,7,10,imola,hulkenberg,Haas F1 Team
+2024,7,18,imola,kevin_magnussen,Haas F1 Team
+2024,7,9,imola,ricciardo,RB F1 Team
+2024,7,12,imola,ocon,Alpine F1 Team
+2024,7,17,imola,zhou,Sauber
+2024,7,15,imola,gasly,Alpine F1 Team
+2024,7,19,imola,sargeant,Williams
+2024,7,16,imola,bottas,Sauber
+2024,7,20,imola,alonso,Aston Martin
+2024,7,14,imola,albon,Williams
+2024,8,1,monaco,leclerc,Ferrari
+2024,8,2,monaco,piastri,McLaren
+2024,8,3,monaco,sainz,Ferrari
+2024,8,4,monaco,norris,McLaren
+2024,8,5,monaco,russell,Mercedes
+2024,8,6,monaco,max_verstappen,Red Bull
+2024,8,7,monaco,hamilton,Mercedes
+2024,8,8,monaco,tsunoda,RB F1 Team
+2024,8,9,monaco,albon,Williams
+2024,8,10,monaco,gasly,Alpine F1 Team
+2024,8,14,monaco,alonso,Aston Martin
+2024,8,12,monaco,ricciardo,RB F1 Team
+2024,8,17,monaco,bottas,Sauber
+2024,8,13,monaco,stroll,Aston Martin
+2024,8,15,monaco,sargeant,Williams
+2024,8,18,monaco,zhou,Sauber
+2024,8,11,monaco,ocon,Alpine F1 Team
+2024,8,16,monaco,perez,Red Bull
+2024,8,19,monaco,hulkenberg,Haas F1 Team
+2024,8,20,monaco,kevin_magnussen,Haas F1 Team
+2024,9,2,villeneuve,max_verstappen,Red Bull
+2024,9,3,villeneuve,norris,McLaren
+2024,9,1,villeneuve,russell,Mercedes
+2024,9,7,villeneuve,hamilton,Mercedes
+2024,9,4,villeneuve,piastri,McLaren
+2024,9,6,villeneuve,alonso,Aston Martin
+2024,9,9,villeneuve,stroll,Aston Martin
+2024,9,5,villeneuve,ricciardo,RB F1 Team
+2024,9,15,villeneuve,gasly,Alpine F1 Team
+2024,9,18,villeneuve,ocon,Alpine F1 Team
+2024,9,17,villeneuve,hulkenberg,Haas F1 Team
+2024,9,14,villeneuve,kevin_magnussen,Haas F1 Team
+2024,9,20,villeneuve,bottas,Sauber
+2024,9,8,villeneuve,tsunoda,RB F1 Team
+2024,9,20,villeneuve,zhou,Sauber
+2024,9,12,villeneuve,sainz,Ferrari
+2024,9,10,villeneuve,albon,Williams
+2024,9,16,villeneuve,perez,Red Bull
+2024,9,11,villeneuve,leclerc,Ferrari
+2024,9,13,villeneuve,sargeant,Williams
+2024,10,2,catalunya,max_verstappen,Red Bull
+2024,10,1,catalunya,norris,McLaren
+2024,10,3,catalunya,hamilton,Mercedes
+2024,10,4,catalunya,russell,Mercedes
+2024,10,5,catalunya,leclerc,Ferrari
+2024,10,6,catalunya,sainz,Ferrari
+2024,10,9,catalunya,piastri,McLaren
+2024,10,11,catalunya,perez,Red Bull
+2024,10,7,catalunya,gasly,Alpine F1 Team
+2024,10,8,catalunya,ocon,Alpine F1 Team
+2024,10,13,catalunya,hulkenberg,Haas F1 Team
+2024,10,10,catalunya,alonso,Aston Martin
+2024,10,15,catalunya,zhou,Sauber
+2024,10,14,catalunya,stroll,Aston Martin
+2024,10,18,catalunya,ricciardo,RB F1 Team
+2024,10,12,catalunya,bottas,Sauber
+2024,10,16,catalunya,kevin_magnussen,Haas F1 Team
+2024,10,20,catalunya,albon,Williams
+2024,10,17,catalunya,tsunoda,RB F1 Team
+2024,10,19,catalunya,sargeant,Williams
+2024,11,3,red_bull_ring,russell,Mercedes
+2024,11,7,red_bull_ring,piastri,McLaren
+2024,11,4,red_bull_ring,sainz,Ferrari
+2024,11,5,red_bull_ring,hamilton,Mercedes
+2024,11,1,red_bull_ring,max_verstappen,Red Bull
+2024,11,9,red_bull_ring,hulkenberg,Haas F1 Team
+2024,11,8,red_bull_ring,perez,Red Bull
+2024,11,12,red_bull_ring,kevin_magnussen,Haas F1 Team
+2024,11,11,red_bull_ring,ricciardo,RB F1 Team
+2024,11,13,red_bull_ring,gasly,Alpine F1 Team
+2024,11,6,red_bull_ring,leclerc,Ferrari
+2024,11,10,red_bull_ring,ocon,Alpine F1 Team
+2024,11,17,red_bull_ring,stroll,Aston Martin
+2024,11,14,red_bull_ring,tsunoda,RB F1 Team
+2024,11,16,red_bull_ring,albon,Williams
+2024,11,18,red_bull_ring,bottas,Sauber
+2024,11,20,red_bull_ring,zhou,Sauber
+2024,11,15,red_bull_ring,alonso,Aston Martin
+2024,11,19,red_bull_ring,sargeant,Williams
+2024,11,2,red_bull_ring,norris,McLaren
+2024,12,2,silverstone,hamilton,Mercedes
+2024,12,4,silverstone,max_verstappen,Red Bull
+2024,12,3,silverstone,norris,McLaren
+2024,12,5,silverstone,piastri,McLaren
+2024,12,7,silverstone,sainz,Ferrari
+2024,12,6,silverstone,hulkenberg,Haas F1 Team
+2024,12,8,silverstone,stroll,Aston Martin
+2024,12,10,silverstone,alonso,Aston Martin
+2024,12,9,silverstone,albon,Williams
+2024,12,13,silverstone,tsunoda,RB F1 Team
+2024,12,12,silverstone,sargeant,Williams
+2024,12,17,silverstone,kevin_magnussen,Haas F1 Team
+2024,12,15,silverstone,ricciardo,RB F1 Team
+2024,12,11,silverstone,leclerc,Ferrari
+2024,12,16,silverstone,bottas,Sauber
+2024,12,18,silverstone,ocon,Alpine F1 Team
+2024,12,20,silverstone,perez,Red Bull
+2024,12,14,silverstone,zhou,Sauber
+2024,12,1,silverstone,russell,Mercedes
+2024,12,19,silverstone,gasly,Alpine F1 Team
+2024,13,2,hungaroring,piastri,McLaren
+2024,13,1,hungaroring,norris,McLaren
+2024,13,5,hungaroring,hamilton,Mercedes
+2024,13,6,hungaroring,leclerc,Ferrari
+2024,13,3,hungaroring,max_verstappen,Red Bull
+2024,13,4,hungaroring,sainz,Ferrari
+2024,13,16,hungaroring,perez,Red Bull
+2024,13,17,hungaroring,russell,Mercedes
+2024,13,10,hungaroring,tsunoda,RB F1 Team
+2024,13,8,hungaroring,stroll,Aston Martin
+2024,13,7,hungaroring,alonso,Aston Martin
+2024,13,9,hungaroring,ricciardo,RB F1 Team
+2024,13,11,hungaroring,hulkenberg,Haas F1 Team
+2024,13,13,hungaroring,albon,Williams
+2024,13,15,hungaroring,kevin_magnussen,Haas F1 Team
+2024,13,12,hungaroring,bottas,Sauber
+2024,13,14,hungaroring,sargeant,Williams
+2024,13,19,hungaroring,ocon,Alpine F1 Team
+2024,13,18,hungaroring,zhou,Sauber
+2024,13,20,hungaroring,gasly,Alpine F1 Team
+2024,14,3,spa,hamilton,Mercedes
+2024,14,5,spa,piastri,McLaren
+2024,14,1,spa,leclerc,Ferrari
+2024,14,11,spa,max_verstappen,Red Bull
+2024,14,4,spa,norris,McLaren
+2024,14,7,spa,sainz,Ferrari
+2024,14,2,spa,perez,Red Bull
+2024,14,8,spa,alonso,Aston Martin
+2024,14,9,spa,ocon,Alpine F1 Team
+2024,14,13,spa,ricciardo,RB F1 Team
+2024,14,15,spa,stroll,Aston Martin
+2024,14,10,spa,albon,Williams
+2024,14,12,spa,gasly,Alpine F1 Team
+2024,14,17,spa,kevin_magnussen,Haas F1 Team
+2024,14,14,spa,bottas,Sauber
+2024,14,20,spa,tsunoda,RB F1 Team
+2024,14,18,spa,sargeant,Williams
+2024,14,16,spa,hulkenberg,Haas F1 Team
+2024,14,19,spa,zhou,Sauber
+2024,14,6,spa,russell,Mercedes
+2024,15,1,zandvoort,norris,McLaren
+2024,15,2,zandvoort,max_verstappen,Red Bull
+2024,15,6,zandvoort,leclerc,Ferrari
+2024,15,3,zandvoort,piastri,McLaren
+2024,15,10,zandvoort,sainz,Ferrari
+2024,15,5,zandvoort,perez,Red Bull
+2024,15,4,zandvoort,russell,Mercedes
+2024,15,14,zandvoort,hamilton,Mercedes
+2024,15,9,zandvoort,gasly,Alpine F1 Team
+2024,15,7,zandvoort,alonso,Aston Martin
+2024,15,12,zandvoort,hulkenberg,Haas F1 Team
+2024,15,13,zandvoort,ricciardo,RB F1 Team
+2024,15,8,zandvoort,stroll,Aston Martin
+2024,15,19,zandvoort,albon,Williams
+2024,15,15,zandvoort,ocon,Alpine F1 Team
+2024,15,18,zandvoort,sargeant,Williams
+2024,15,11,zandvoort,tsunoda,RB F1 Team
+2024,15,20,zandvoort,kevin_magnussen,Haas F1 Team
+2024,15,16,zandvoort,bottas,Sauber
+2024,15,17,zandvoort,zhou,Sauber

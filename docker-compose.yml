@@ -1,0 +1,137 @@
+# One compose file for the whole project: app (postgres + api + webapp)
+# and Airflow (init + api-server + dag-processor + scheduler); ONE postgres
+# instance hosts two databases: the app data and Airflow metadata (brief rule).
+#
+#   cp .env.example .env    # fill in the values
+#   docker compose up -d --build
+
+# Shared config for all Airflow services (YAML anchor, reused via <<:)
+x-airflow-common: &airflow-common
+  build: ./airflow
+  environment:
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    # Airflow's bookkeeping lives in the SAME postgres instance but a SEPARATE
+    # database ("airflow" vs the app's) - single instance per the course brief.
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:${AIRFLOW_DB_PASSWORD}@postgres/airflow
+    AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+    AIRFLOW__CORE__EXECUTION_API_SERVER_URL: http://airflow-api-server:8021/execution/
+    AIRFLOW__API_AUTH__JWT_SECRET: ${AIRFLOW_JWT_SECRET}
+    AIRFLOW__API__SECRET_KEY: ${AIRFLOW_SECRET_KEY}
+    # Airflow Connection to the APP database (used by save_statistics)
+    AIRFLOW_CONN_APP_DB: postgresql://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB}
+    # the prediction DAG calls the API by service name
+    API_URL: http://api:8000
+    TEAMS_WEBHOOK_URL: ${TEAMS_WEBHOOK_URL:-}
+  user: "${AIRFLOW_UID:-50000}:0"
+  volumes:
+    - ./airflow/dags:/opt/airflow/dags
+    - ./data:/opt/airflow/data
+    - ./airflow/great_expectations:/opt/airflow/great_expectations
+
+services:
+
+  # ---------- app ----------
+
+  postgres:
+    build:
+      context: ./airflow
+      dockerfile: postgres.Dockerfile
+    container_name: f1_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+      AIRFLOW_DB_PASSWORD: ${AIRFLOW_DB_PASSWORD}
+    ports:
+      - "${POSTGRES_PORT}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  api:
+    build:
+      context: .
+      dockerfile: model_service/Dockerfile
+    container_name: f1_api
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+    volumes:
+      - ./artifacts:/app/artifacts:ro
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  webapp:
+    build:
+      context: ./webapp
+    container_name: f1_webapp
+    restart: unless-stopped
+    environment:
+      # service name, not localhost: containers reach each other by name
+      API_URL: http://api:8000
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./webapp:/app
+    depends_on:
+      - api
+
+  # ---------- airflow ----------
+
+  # one-shot: run Airflow DB migrations, then exit
+  airflow-init:
+    <<: *airflow-common
+    command: airflow db migrate
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  airflow-api-server:
+    <<: *airflow-common
+    command: airflow api-server --port 8021
+    ports:
+      - "8021:8021"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8021/api/v2/monitor/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-dag-processor:
+    <<: *airflow-common
+    command: airflow dag-processor
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-scheduler:
+    <<: *airflow-common
+    command: airflow scheduler
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+      airflow-api-server:
+        condition: service_healthy
+
+volumes:
+  postgres_data:
