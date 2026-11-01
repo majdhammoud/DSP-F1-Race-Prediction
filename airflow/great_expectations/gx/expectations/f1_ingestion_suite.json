@@ -1,0 +1,218 @@
+{
+  "expectations": [
+    {
+      "id": "5c335334-2ca0-495a-b55f-c5be755f97af",
+      "kwargs": {
+        "column": "Season"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_not_be_null"
+    },
+    {
+      "id": "7dbe09fb-e9ac-4a25-befc-8c3b0f367bfe",
+      "kwargs": {
+        "column": "Round"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_not_be_null"
+    },
+    {
+      "id": "c031acb0-2d65-4a5d-8f6e-32215350e4dc",
+      "kwargs": {
+        "column": "CircuitID"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_not_be_null"
+    },
+    {
+      "id": "6eddbc7f-dcdc-459a-b7df-411f9aee0a30",
+      "kwargs": {
+        "column": "DriverID"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_not_be_null"
+    },
+    {
+      "id": "2cbef81f-0146-43d3-b345-09f5f856128d",
+      "kwargs": {
+        "column": "ConstructorName"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_not_be_null"
+    },
+    {
+      "id": "f22f2c21-9b58-4a21-befd-cb86fbb0be3d",
+      "kwargs": {
+        "column": "Grid"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_not_be_null"
+    },
+    {
+      "id": "8458975e-9c5d-4f3b-990c-f4f1bcd5bc82",
+      "kwargs": {
+        "column": "Season",
+        "max_value": 2030.0,
+        "min_value": 2000.0
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_between"
+    },
+    {
+      "id": "9f64a1ca-c15e-41fe-a79f-7f57f97e19be",
+      "kwargs": {
+        "column": "Round",
+        "max_value": 25.0,
+        "min_value": 1.0
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_between"
+    },
+    {
+      "id": "e817c901-80bf-45a6-b365-9ae7516a432d",
+      "kwargs": {
+        "column": "Grid",
+        "max_value": 40.0,
+        "min_value": 0.0
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_between"
+    },
+    {
+      "id": "a1a26360-c52d-459a-a1f1-d9f8013580cd",
+      "kwargs": {
+        "column": "ConstructorName",
+        "value_set": [
+          "Alfa Romeo",
+          "AlphaTauri",
+          "Alpine F1 Team",
+          "Arrows",
+          "Aston Martin",
+          "BAR",
+          "BMW Sauber",
+          "Benetton",
+          "Brawn",
+          "Caterham",
+          "Ferrari",
+          "Force India",
+          "HRT",
+          "Haas F1 Team",
+          "Honda",
+          "Jaguar",
+          "Jordan",
+          "Lotus",
+          "Lotus F1",
+          "MF1",
+          "Manor Marussia",
+          "Marussia",
+          "McLaren",
+          "Mercedes",
+          "Minardi",
+          "Prost",
+          "Racing Point",
+          "Red Bull",
+          "Renault",
+          "Sauber",
+          "Spyker",
+          "Spyker MF1",
+          "Super Aguri",
+          "Toro Rosso",
+          "Toyota",
+          "Virgin",
+          "Williams"
+        ]
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_in_set"
+    },
+    {
+      "id": "5d5607f6-5f28-46c4-8ada-50a68125ece9",
+      "kwargs": {
+        "column": "CircuitID",
+        "value_set": [
+          "albert_park",
+          "americas",
+          "bahrain",
+          "baku",
+          "buddh",
+          "catalunya",
+          "fuji",
+          "hockenheimring",
+          "hungaroring",
+          "imola",
+          "indianapolis",
+          "interlagos",
+          "istanbul",
+          "jeddah",
+          "losail",
+          "magny_cours",
+          "marina_bay",
+          "monaco",
+          "monza",
+          "mugello",
+          "nurburgring",
+          "portimao",
+          "red_bull_ring",
+          "ricard",
+          "rodriguez",
+          "sepang",
+          "shanghai",
+          "silverstone",
+          "sochi",
+          "spa",
+          "suzuka",
+          "valencia",
+          "villeneuve",
+          "yas_marina",
+          "yeongam",
+          "zandvoort"
+        ]
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_in_set"
+    },
+    {
+      "id": "a0fd9ada-1665-4faf-87c4-f2ae32847e16",
+      "kwargs": {
+        "column": "DriverID",
+        "regex": "^[a-z0-9_]+$"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_match_regex"
+    },
+    {
+      "id": "5b96a307-f065-420e-a0db-6ef974659d97",
+      "kwargs": {
+        "column_list": [
+          "Season",
+          "Round",
+          "CircuitID",
+          "DriverID",
+          "ConstructorName",
+          "Grid"
+        ]
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_compound_columns_to_be_unique"
+    }
+  ],
+  "id": "daef9180-9306-41a6-9929-8800cb6ab6e6",
+  "meta": {
+    "great_expectations_version": "1.19.0"
+  },
+  "name": "f1_ingestion_suite",
+  "notes": null
+}
